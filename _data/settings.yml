@@ -38,7 +38,7 @@ client:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "We Can Help Manage Your  Rental Property"
-    CTA_text: "We offer a full range ofProperty Management services tailored to you as an investor, homeowner, or landlord."
+    CTA_text: "We offer a full range of Property Management services tailored to you as an investor, homeowner, or landlord."
     CTA_link_text: "Free In-Person Evaluation"
     CTA_url: /contact/
 
