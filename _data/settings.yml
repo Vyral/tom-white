@@ -1,6 +1,6 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Peace of Mind Property Management
+description: Our mission at Peace of Mind is to be your best resource for San Antonio real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Peace of Mind, your professional San Antonio Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -15,37 +15,39 @@ client:
   title:
   license_number:
   about_markdown: |
+    Founded in 2014, Peace of Mind Property Management, LLC focuses on providing efficient customer service that gives property owners peace of mind. Tom White saw an increasing opportunity with new technology to enhance property management by creating systemic, efficient service model with systems such as over night accounting , 24/7 repair maintenance and visual reporting. Peace of Mind Property Management is committed to representing the owner and protecting their investment and liability.
 
-  brand:
+    In February 2014, Vera Gonzales became the lead property manager. She is committed to serving our property owners by helping coordinate repairs and dealing with tenant issues.
+  brand: Peace of Mind
   brokerage:
-  market:
-  address:
-  phone:
+  market: San Antonio
+  address: 1102 East Sonterra, San Antonio 78258
+  phone: 210-482-3245
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@peaceofmind.co
+  url: http://www.peaceofmind.co
 
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+# CTAs:
+#   first_CTA_text: Home Valuation
+#   first_CTA_URL: /homevalue/
+#   second_CTA_text: Home Search
+#   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "We Can Help Manage Your  Rental Property"
+    CTA_text: "We offer a full range ofProperty Management services tailored to you as an investor, homeowner, or landlord."
+    CTA_link_text: "Free In-Person Evaluation"
+    CTA_url: /contact/
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+# second_sidebar_CTA:
+#   - CTA_image_path2: /img/cta-images/002.jpg
+#     CTA_title2: "Looking for a San Antonio Home?"
+#     CTA_text2: "Search the entire MLS for your San Antonio home."
+#     CTA_link_text2: "Search the MLS"
+#     CTA_url2: /homesearch/
 
 lender:
   show_section: false
@@ -62,10 +64,10 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
+  facebook_url: https://www.facebook.com/pages/Peace-of-Mind-Property-Management/1390326624523010
   linkedin_url:
-  youtube_url:
-  twitter_url:
+  youtube_url: https://www.youtube.com/channel/UCwAi7fA_PWnayak6AomG7lw/about
+  twitter_url: https://twitter.com/peaceofmindsa
   instagram_url:
   pinterest_url:
   zillow_url:
@@ -74,25 +76,25 @@ socials:
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: 'San Antonio Real Estate Podcast'
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Antonio Area Real Estate Market'
+  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Peace of Mind - your professional San Antonio Real Estate Agents.'
+  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Antonio, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
   author: '-- CLIENT NAME --'
 
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: San Antonio Property Management Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#1dc1dd'
+  theme_color: '#0080bc'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -101,7 +103,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#fff'
 
 buttons:
   button_radius_number: 0
