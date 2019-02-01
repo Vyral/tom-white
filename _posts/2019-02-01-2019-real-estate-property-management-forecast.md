@@ -19,7 +19,7 @@ youtube_code: sNZwWHUOUn4
 
 {% include youtube.html %}
 
-How will 2019 fare when it comes to property management? Let’s find out today.
+<p style="text-align: center;"><em>How will 2019 fare when it comes to property management? Let’s find out today.</em></p>
 
 Here’s our forecast for the 2019 real estate market in regard to property management:
 
