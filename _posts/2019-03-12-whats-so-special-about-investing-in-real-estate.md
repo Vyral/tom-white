@@ -21,7 +21,7 @@ youtube_code: WJ_XwErt01M
 
 {% include youtube.html %}
 
-What makes real estate investing so powerful? There are four primary reasons why, and we’re excited to share them with you now.
+<p style="text-align: center;"><em>What makes real estate investing so powerful? There are four primary reasons why, and we’re excited to share them with you now.</em></p>
 
 Investing in real estate is a fantastic way to build wealth, but what makes it so advantageous?
 
