@@ -37,6 +37,6 @@ There are four main reasons:
 
 **4. It pays off your note.** All of these benefits by themselves are fantastic, but they are even more powerful as a collective. By investing in real estate, you can easily use the wealth this earns you to help pay off your note.&nbsp;
 
-Myself and other experts have noticed that real estate investors tend to see an 8% to 14% rate of return, on average. This is outstanding, especially compared to the stock market. Overall, real estate investing is a great way to reduce your risk and increase your cash flow.&nbsp;
+Other experts and I have noticed that real estate investors tend to see an 8% to 14% rate of return, on average. This is outstanding, especially compared to the stock market. Overall, real estate investing is a great way to reduce your risk and increase your cash flow.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
