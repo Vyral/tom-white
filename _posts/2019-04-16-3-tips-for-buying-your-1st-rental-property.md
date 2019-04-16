@@ -21,7 +21,7 @@ youtube_code: u1hw4rCxWVo
 
 {% include youtube.html %}
 
-If you’re looking to buy your first investment property, follow these three tips.
+<p style="text-align: center;"><em>If you’re looking to buy your first investment property, follow these three tips.</em></p>
 
 There are three things you need to keep in mind when buying your first rental property:
 
