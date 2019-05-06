@@ -22,7 +22,7 @@ youtube_code: dwxWazgzcRk
 
 {% include youtube.html %}
 
-Which rental property is right for you? Today I’ll walk you through a few questions to ask yourself in order to find out.
+<p style="text-align: center;"><em>Which rental property is right for you? Today I’ll walk you through a few questions to ask yourself in order to find out.</em></p>
 
 How can you identify a rental property that’s right for you? In my experience with real estate investors who ask this, I often think of a few questions to ask them myself.
 
