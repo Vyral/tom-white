@@ -28,17 +28,17 @@ How can you identify a rental property that’s right for you? In my experience 
 
 The first one I think of is, **“Are you handy?”&nbsp;**
 
-If the answer is yes, and you own a general contracting company or you’ve done a lot of handy work before, buying a fixer-upper could be a really good investment for you. However, I don’t see a fixer-upper making someone a lot of money if they don’t know how to do the tasks necessary to make it saleable, and if they’re not bringing their own work to the property itself.
+If the answer is yes, and you own a general contracting company or you’ve done a lot of handy work before, buying a fixer-upper could be a really good investment for you. However, I don’t see a fixer-upper making someone a lot of money if they don’t know how to do the tasks necessary to make it saleable and if they’re not bringing their own work to the property itself.
 
 {% include pullquote.html %}
 
-On the other hand, if you’re not handy and you don’t have the time to oversee the work, then I highly recommend that you move away from older properties and instead invest in a newer one. That will save you a lot of time and, in the end, if you’re not doing the repairs yourself, it’s not going to matter much.
+If you’re not handy and you don’t have the time to oversee the work, then I highly recommend that you move away from older properties and instead invest in a newer one. That will save you a lot of time and, in the end, if you’re not doing the repairs yourself, it’s not going to matter much.
 
 The second question to ask yourself as an investor is, **“Are you a good manager?”&nbsp;**
 
 Will you be managing the property yourself, or will you hire a property management company? If you have a property that would be intense to manage, like a multi-family home or a home where there’s a lot of turnover, you’ll really need to be ready to manage that property.
 
-On the flip side, if you recognize that you’re not ready to deal with so many moving parts and complications, then you might look into a residential home as an investment property. If the home is in a nicer part of town, you’ll likely have a lower turnover and fewer issues to deal with.
+On the flip side, if you recognize that you’re not ready to deal with so many moving parts and complications, then you might look into a residential home as an investment property. If the home is in a nicer part of town, you’ll likely have lower turnover and fewer issues to deal with.
 
 The last question to ask yourself in the pursuit of an investment property is, **“What area do you live in?”**
 
